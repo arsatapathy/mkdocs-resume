@@ -1,4 +1,4 @@
 site_name: Ashish Satapathy
-sit_url: https://arsatapathy.github.io/mkdocs-test
+site_url: https://arsatapathy.github.io/mkdocs-test
 nav: 
   - Home: index.md
