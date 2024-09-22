@@ -1,4 +1,5 @@
 site_name: My Docs
+sit_url: https://arsatapathy.github.io/mkdocs-test
 nav: 
   - Home: index.md
   - About: about.md
