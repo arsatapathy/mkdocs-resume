@@ -6,5 +6,5 @@ nav:
   - Home: index.md
 
 theme:
-    name: dracula
+    name: mkdocs
     logo: assets/img/ashish_profile_photo.png
