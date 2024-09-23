@@ -1,10 +1,9 @@
 site_name: Ashish Satapathy
 site_url: https://arsatapathy.github.io/mkdocs-test
-repo_url: https://github.com/arsatapathy/mkdocs-resume/
 
 nav: 
   - Home: index.md
 
 theme:
-    name: mkdocs
+    name: dracula
     logo: assets/img/ashish_profile_photo.png
