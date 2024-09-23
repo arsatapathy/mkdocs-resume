@@ -9,5 +9,4 @@ theme:
     logo: assets/img/ashish_profile_photo.png
 
 extra:
-  header:
-    - View source code: https://github.com/arsatapathy/mkdocs-resume
+  footer: "View source code: [GitHub Repository](https://github.com/arsatapathy/mkdocs-resume)"
