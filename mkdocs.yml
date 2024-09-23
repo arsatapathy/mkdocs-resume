@@ -4,3 +4,4 @@ nav:
   - Home: index.md
 theme:
     name: dracula
+    logo: img/ashish_profile_photo.JPEG
