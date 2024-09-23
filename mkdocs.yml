@@ -2,3 +2,5 @@ site_name: Ashish Satapathy
 site_url: https://arsatapathy.github.io/mkdocs-test
 nav: 
   - Home: index.md
+theme:
+    name: dracula
