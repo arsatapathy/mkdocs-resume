@@ -1,5 +1,7 @@
 site_name: Ashish Satapathy
-site_url: https://arsatapathy.github.io/mkdocs-test
+repo_name: arsatapathy/mkdocs-resume
+repo_url: https://github.com/arsatapathy/mkdocs-resume
+site_url: https://arsatapathy.github.io/mkdocs-resume
 
 nav: 
   - Home: index.md
