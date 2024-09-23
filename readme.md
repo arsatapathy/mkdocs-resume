@@ -1,1 +1,1 @@
-Site Url: [url](https://arsatapathy.github.io/mkdocs-resume/)
+Site Url: [link](https://arsatapathy.github.io/mkdocs-resume/)
